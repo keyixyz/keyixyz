@@ -28,6 +28,6 @@ TwitterX : https://x.com/keyixyz
 
 Shared community development lore hub: just telegram for the moment, will be on github too and/or a wiki, depending on what feels right
 
-Github: https://github.com/keyixyz
+Github: https://github.com/keyixyz ( and a 'github organization' at https://github.com/keyixyzcommunity so we can collaborate and delegate permissions)
 
 3D Printable 🉑 swag: Printables? Thingiverse? one of the worse ones that has a kickback scheme? We'll see!
