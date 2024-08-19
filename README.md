@@ -1,7 +1,7 @@
 #🉑KEYI🉑
 
 Official project URL:
-http://keyi.xyz
+[KEYI.xyz](http://keyi.xyz)
 
 This is an individual account, for contributing to the 'organization' community account at: https://github.com/keyixyzcommunity
 
